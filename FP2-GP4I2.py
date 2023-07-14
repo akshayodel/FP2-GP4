@@ -4,13 +4,13 @@
 # In[3]:
 
 
-pip install streamlit
+#pip install streamlit
 
 
 # In[8]:
 
 
-pip install requests
+#pip install requests
 
 
 # In[10]:
