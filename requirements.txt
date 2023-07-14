@@ -1,6 +1,5 @@
 pandas
 matplotlib
-csv
 requests
 numpy
 warnings
