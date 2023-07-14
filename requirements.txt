@@ -9,9 +9,3 @@ datetime
 voila
 widgetsnbextension
 statsmodels
-jupyter voila
-
-
-
-
-
