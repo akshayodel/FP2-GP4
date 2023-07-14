@@ -3,8 +3,8 @@ matplotlib
 requests
 numpy
 ipywidgets
-IPython.display
-dateutil.relativedelta
+IPython
+dateutil
 datetime
 voila
 widgetsnbextension
