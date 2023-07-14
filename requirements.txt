@@ -2,7 +2,6 @@ pandas
 matplotlib
 requests
 numpy
-warnings
 ipywidgets
 IPython.display
 dateutil.relativedelta
