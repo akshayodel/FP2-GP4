@@ -9,3 +9,4 @@ datetime
 voila
 widgetsnbextension
 statsmodels
+streamlit
